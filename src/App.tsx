@@ -380,7 +380,7 @@ function App() {
 
           <p className="text-sm font-semibold">📝【使用方法】</p>
           <ul className="list-disc pl-5 space-y-1">
-            <li>输入你的微信号，上下引导语可以自发挥</li>
+            <li>手机端需要在浏览器打开才能下载图片，输入你的微信号，上下引导语可以自发挥</li>
             <li>选择背景样式生成图片</li>
             <li>手动保存图片，添加到小红书表情包</li>
           </ul>
